@@ -1,16 +1,9 @@
 # colonka1_27
 
-A new Flutter project.
+Column.
 
-## Getting Started
+## Eliseev Dmitry
 
-This project is a starting point for a Flutter application.
+![image](https://github.com/dimxik/colonka1_27/assets/145029175/ec23fb4e-3fb0-4cb7-932d-adfb3247f8c8)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
